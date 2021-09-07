@@ -1,0 +1,32 @@
+<svg width="79" height="78" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <radialGradient gradientUnits="userSpaceOnUse" gradientTransform="translate(0 0.0000228882) matrix(-0.7402 -0.6724 0.6724 -0.7402 2364.55 2376.48)" r="82.5783" cy="432.26019" cx="3521.46289" id="svg_19">
+   <stop stop-color="#5B7FBF" offset="0"/>
+   <stop stop-color="#597CBC" offset="0.3335"/>
+   <stop stop-color="#5674B4" offset="0.5166"/>
+   <stop stop-color="#5168A9" offset="0.6633"/>
+   <stop stop-color="#4B5899" offset="0.7907"/>
+   <stop stop-color="#424485" offset="0.9043"/>
+   <stop stop-color="#3C3578" offset="0.9697"/>
+  </radialGradient>
+  <linearGradient gradientTransform="translate(0 0.0000228882) translate(0 -0.0000228882) translate(0 -4.49998) translate(0 -4.5) translate(0 4.49998) translate(0 0.0000228882) translate(0 4.50002) translate(0 4.49998) translate(0 4.5) translate(0 4.5) translate(0 4.5) translate(0 4.5) translate(0 -4.5) translate(0 -4.5) translate(0 -4.5) translate(0 -4.50002) translate(0 -4.49998) translate(0 0.000137329) translate(-270 -438) translate(-0.0000114441 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(-0.00000572204 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.49999 0) translate(4.5 0) translate(4.5 0) translate(9 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-0.00000286102 0) translate(-4.5 0) translate(-4.49999 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-4.49999 0) translate(-4.5 0) translate(-4.5 0) translate(-9 0) translate(-4.5 0) translate(0.00000572204 0) translate(-9 0) translate(-4.5 0) translate(-4.5 0) translate(-4.5 0) translate(-9 0) translate(-4.5 0) translate(-13.5 0) translate(-4.50001 0) translate(-9 0) translate(-4.5 0) translate(-13.5 0) translate(-4.50001 0) translate(-16.5 0) translate(-4.5 0) translate(-4.99978 0) translate(1.5 1.5) translate(200 0) translate(0 150)" y2="1.02027" x2="0.33728" y1="0.04213" x1="0.66216" id="svg_17">
+   <stop stop-color="#2980C4" offset="0"/>
+   <stop stop-color="#2F8ACA" offset="0.1224"/>
+   <stop stop-color="#41A9DF" offset="0.5214"/>
+   <stop stop-color="#4DBDED" offset="0.8268"/>
+   <stop stop-color="#51C5F2" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g class="currentLayer">
+  <title>Layer 1</title>
+  <rect stroke="null" transform="matrix(0.10854078738837607,0,0,0.12778025443978397,-4.707257745849301,-16.870554408437997) " fill="none" y="139.19658" x="50.39422" height="600" width="800" id="svg_20" class="selected"/>
+  <g stroke="null" id="svg_15" stroke-width="0">
+   <path stroke="null" id="svg_18" d="m13.8806,66.56647c14.89681,13.56152 37.97225,12.43487 51.53377,-2.46194c7.63619,-8.38727 10.64058,-19.31995 9.13838,-29.75188c0,0 -15.1889,16.73282 -18.9444,20.82215c-8.63764,9.51392 -23.32581,10.22329 -32.83974,1.58565c-9.51392,-8.63764 -10.18157,-23.32582 -1.54393,-32.83974c3.71377,-4.08932 18.94441,-20.82215 18.94441,-20.82215c-10.5154,-0.50074 -21.11425,3.54686 -28.75042,11.93414c-13.56152,14.8968 -12.43488,37.97225 2.46193,51.53377z" fill="url(#svg_19)" stroke-width="0"/>
+   <path stroke="null" id="svg_16" d="m65.58129,15.24134c0,0 -20.90561,23.03371 -24.41074,26.87267c-1.37702,1.50219 -3.7555,1.62738 -5.29943,0.25037c-1.5022,-1.37702 -1.6691,-3.75551 -0.29209,-5.25771c3.4634,-3.83894 24.41074,-26.87267 24.41074,-26.87267c-3.54686,-2.58711 -7.42754,-4.5066 -11.47513,-5.67497c0,0 -18.56885,20.40487 -22.03226,24.24383c-5.96707,6.55125 -5.50806,16.73282 1.08492,22.69989c6.55126,5.96707 16.73284,5.46634 22.6999,-1.08492c3.46341,-3.83895 22.03226,-24.24382 22.03226,-24.24382c-1.5022,-3.96414 -3.79723,-7.67791 -6.71817,-10.93267z" fill="url(#svg_17)" stroke-width="0"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 2</title>
+  <rect stroke="null" id="backgroundrect" width="77" height="78" x="1" y="0" fill="none"/>
+ </g>
+</svg>

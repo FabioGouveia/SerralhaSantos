@@ -1,0 +1,38 @@
+# serralhasantos.com htaccess files
+#
+####### Copy not allowed #######
+
+SetEnvIf X-Forwarded-Proto https HTTPS=on
+
+<IfModule mod_autoindex.c>
+    Options -Indexes
+</IfModule>
+
+ServerSignature Off
+
+#Proteger o arquivo htaccess
+
+<files ~ "^.*\.([Hh][Tt][Aa])">
+order allow,deny
+deny from all
+satisfy all
+</files>
+
+RewriteEngine on
+
+# site stopped since 2021-08-01 19:23
+Redirect 404
+
+RewriteCond %{HTTP_HOST} ^serralhasantos\.eu$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.serralhasantos\.eu$
+RewriteRule ^/?$ "https\:\/\/serralhasantos\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^serralhasantos\.online$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.serralhasantos\.online$
+RewriteRule ^/?$ "https\:\/\/serralhasantos\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^serralhasantos\.pt$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.serralhasantos\.pt$
+RewriteRule ^/?$ "https\:\/\/serralhasantos\.com\/" [R=301,L]
+RewriteCond %{HTTP_HOST} ^serralhasantos\.site$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.serralhasantos\.site$
+RewriteRule ^/?$ "https\:\/\/serralhasantos\.com\/" [R=301,L]
+
